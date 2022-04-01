@@ -1,8 +1,0 @@
-#!bin/bash/
-#!/bin/bash
-chmod betty hello
-chown betty hello
-#!/bin/bash
-chown betty hello
-#!/bin/bash
-chown betty hello
